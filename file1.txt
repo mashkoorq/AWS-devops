@@ -2,3 +2,8 @@ This is first file
 This is a test file
 This is test message
 updates are creating problems:
+Restoring delted file in git repository 
+
+# just checkout the head where that file was existing.
+
+git checkout HEAD -- path/filename
