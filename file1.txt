@@ -1,0 +1,57 @@
+This is first file
+This is a test file
+This is test message
+updates are creating problems:
+<<<<<<< HEAD
+=======
+Restoring delted file in git repository 
+
+# just checkout the head where that file was existing.
+
+git checkout HEAD -- path/filename
+>>>>>>> 2228876d3105f79b0ef5fa86b5916f8114d0cad0
+
+23dfb25 reseted the button
+da31beb Merge branch 'table' into 'main'
+73f8fa2 Changed paragraphs font size
+2279f23 Merge branch 'button' into 'main'
+0105b27 Merge branch 'button'
+9426bc5 location changed for the upper form
+d5522c4 Added button on the page
+0d94aef Resolving merger conflict
+d976e6b changed line 86 to resolve the conflict
+7779f56 Button added
+279933e cneter the Pics
+287374b Changed picture size.
+ed442a2 line spaces reduced in between pictures and added spaces in between tables
+335db5a Delete new-index
+3db6783 Delete data-new
+5a5a6af Merge branch 'data' into 'main'
+92bda2e Add new file
+bc626e1 Merge branch 'table' into 'main'
+48a2b6e Add new file
+2e81a78 This secquence changed
+00ebade Secquence changes
+fd53492 data changed
+c552051 Merge branch 'table' into 'main'
+b624af9 Border changed
+27b33d2 Table Borders added
+12132ac Heading color and Background colors added
+c1a402d Extra line from the code removed
+29eebf3 Duplicat image has been removed
+65d9b52 New code fetched
+2228876 Merge branch 'imag' into 'main'
+2b15166 Image and pragraph added
+e9e7e9c Image added
+6755f72 recovered the deleted file from the repository.
+f9c818d Clone the current project
+c244374 added Radio options in the home page
+af62abc Forms added
+a949557 Merge branch 'main' of http://gitlabsrv.local.com/root/devops Pulled latest code from the central repository
+7f56557 changes in tablex
+c4387a2 Merge branch 'master'
+9bdd014 README.md file updated
+6d047ec Added Site Map column
+ef40b30 backgroud color removed from title
+5135419 Updated file1
+c31b1ae Cloned the DevOps Project
