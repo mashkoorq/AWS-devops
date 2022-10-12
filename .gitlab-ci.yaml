@@ -1,0 +1,5 @@
+devops_1:
+  tags:
+    - ci
+  script:
+    - echo "Welcome to Devops tutorial!"
