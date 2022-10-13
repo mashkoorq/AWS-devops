@@ -1,0 +1,5 @@
+Devops-Project:
+  tags:
+    - ci
+  script:
+    - echo Welcome to GITLAB CI/CD Tutorial on local server
